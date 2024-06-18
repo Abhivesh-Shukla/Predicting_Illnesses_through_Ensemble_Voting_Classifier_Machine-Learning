@@ -1,0 +1,2 @@
+# Disease-Prediction-using-Ensemble-Voting-Regressor_Machine-Learning
+This repository implements a machine learning-based disease prediction system using the GitHub Collaborative Disease-Symptom Dataset. It employs models like Random Forest and K-Nearest Neighbors, leveraging confusion matrices for performance evaluation. Key technologies include Python, scikit-learn, pandas, NumPy, Matplotlib, and seaborn.
