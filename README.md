@@ -47,4 +47,4 @@ The dataset used in this project is the GitHub Collaborative Disease-Symptom Dat
 
 ## Conclusion
 
-This project demonstrates the transformative impact of machine learning on healthcare diagnostics. By meticulously analyzing symptomatic data and employing sophisticated machine-learning techniques, this initiative aims to pave the way for more accurate and personalized diagnostic tools, ultimately enhancing patient care.
+This project demonstrates the transformative impact of machine learning on healthcare diagnostics. By meticulously analyzing symptomatic data and employing sophisticated machine-learning techniques, this initiative aims to pave the way for more accurate and personalized diagnostic tools, ultimately enhancing care of patient.
