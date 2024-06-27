@@ -13,7 +13,7 @@ This repository contains the code and data for predicting illnesses based on sym
 
 ## Dataset
 
-The dataset used in this project is the GitHub Collaborative Disease-Symptom Dataset. It includes a rich array of symptom-disease pairs, allowing for detailed analysis and effective model training. The dataset features:
+The dataset used in this project is the GitHub Collaborative Disease-Symptom Dataset. It includes a very rich array of symptom-disease pairs, allowing for detailed analysis and effective model training. The dataset features:
 - **Disease Categories**: 41 distinct diseases such as Influenza, Diabetes, Chronic Kidney Disease, Hypertension, and Tuberculosis.
 - **Symptoms**: 132 specific symptoms like Fever, Headache, Cough, and Muscle Aches.
 
