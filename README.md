@@ -24,7 +24,7 @@ The dataset used in this project is the GitHub Collaborative Disease-Symptom Dat
 3. **Model Evaluation**: Using confusion matrices and performance metrics to evaluate each model's effectiveness.
 4. **Ensemble Approach**: Combining multiple models to enhance predictive accuracy and mitigate overfitting.
 
-## Workflow of the Project
+## Workflow of the Project:
 
 <img width="834" alt="Workflow of the Program" src="https://github.com/PrantikGhosh/Predicting_Illnesses_through_Ensemble_Voting_Classifier_Machine-Learning/assets/84172492/849980d4-70af-4d5a-941e-8324f1464e95">
 
@@ -47,4 +47,4 @@ The dataset used in this project is the GitHub Collaborative Disease-Symptom Dat
 
 ## Conclusion
 
-This project demonstrates the transformative impact of machine learning on healthcare diagnostics. By meticulously analyzing symptomatic data and employing sophisticated machine-learning techniques, this initiative aims to pave the way for more accurate and personalized diagnostic tools, ultimately enhancing care of patient.
+This project demonstrates the transformative impact of machine learning on the healthcare diagnostics. By meticulously analyzing the symptomatic data and employing sophisticated machine-learning techniques, this initiative aims to pave the way for more accurate and personalized diagnostic tools, ultimately enhancing care of patient.
