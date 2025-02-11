@@ -48,3 +48,8 @@ The dataset used in this project is the GitHub Collaborative Disease-Symptom Dat
 ## Conclusion
 
 This project demonstrates the transformative impact of machine learning on the healthcare diagnostics. By meticulously analyzing the symptomatic data and employing sophisticated machine-learning techniques, this initiative aims to pave the way for more accurate and personalized diagnostic tools, ultimately enhancing care of patient.
+
+## Publications
+
+This research has been published in the 2024 Second International Conference on Advances in Information Technology (ICAIT), Chikkamagaluru, Karnataka, India:
+P. Ghosh, A. Shukla, B. C. V, and F. Yakub, “Predicting Illnesses through Symptomatic Patterns through Ensemble Voting Regressor,” ICAIT 2024, pp. 1-6, DOI: 10.1109/ICAIT61638.2024.10690506.
